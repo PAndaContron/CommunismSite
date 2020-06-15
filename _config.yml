@@ -1,12 +1,2 @@
 theme: jekyll-theme-merlot
 title: Communism
-
-navbar-col: "#FF0000"
-navbar-text-col: "#FF0000"
-navbar-border-col: "#FF0000"
-page-col: "#FF0000"
-link-col: "#FF0000"
-hover-col: "#FF0000"
-footer-col: "#FF0000"
-footer-text-col: "#FF0000"
-footer-link-col: "#FF0000"

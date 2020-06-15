@@ -1,1 +1,1 @@
-## The worker shall suffer no more!
+## The common worker shall suffer no more!
